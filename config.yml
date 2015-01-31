@@ -1,0 +1,10 @@
+aws:
+  access_key_id: '' # insert your access key in the ''
+  secret_access_key: '' # insert your secret access key in the ''
+
+twitter:
+  access_token: '' # insert your twitter access token in the ''
+  access_token_secret: '' # insert your access token secret in the ''
+app:
+  consumer_key: '' # insert your twitter consumer key in the ''
+  consumer_secret: '' # insert your consumer secret in the ''
